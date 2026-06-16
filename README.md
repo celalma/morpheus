@@ -12,9 +12,9 @@ Download the repo as a `.zip` file, unzip it and run the `Morpheus.html` file.
 - [x] File import and download
 - [x] HTML / CSS support
 
-# Planned features
+- [x] ⭐ $\color{Gold}{\textsf{NEW}}$ ‎ ‎ Integrate external stylesheets and scripts so it works offline
 
-- [ ] Integrate external stylesheets and scripts so it works offline
+# Planned features
 - [ ] Add support for other languages (Python, C, Typescript, Javascript,...)
 - [ ] Integrate a file explorer/organizer
 - [ ] Better autocomplete
