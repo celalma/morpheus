@@ -22,7 +22,7 @@ Download the repo as a `.zip` file, unzip it and run the `Morpheus.html` file.
 
 # Contributing
 
-Check [[CONTRIBUTING.md](https://github.com/celalma/morpheus/README.md)] for more info
+Check [[CONTRIBUTING.md]([https://github.com/celalma/morpheus/README.md](https://github.com/celalma/morpheus/blob/main/CONTRIBUTING.md))] for more info
 
 # License
 The project is licensed under the MIT license.
