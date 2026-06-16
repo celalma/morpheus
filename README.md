@@ -15,5 +15,9 @@ Morpheus is a simple code editor built for people who do not want to wase their 
 - [ ] Better autocomplete
 - [ ] Other themes/appearances
 
+# Contributing
+
+Check [CONTRIBUTING.md] for more info
+
 # License
 The project is licensed under the MIT license.
