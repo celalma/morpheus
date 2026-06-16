@@ -1,4 +1,4 @@
-![banner](images/morpheus-banner.png)
+![banner](images/Morpheus-16-06-2026.png)
 
 # About Morpheus
 Morpheus is a simple code editor built for people who do not want to wase their time. Less distraction, more coding. With a light theme and a simple UI, it is design for efficency. And on top of that, it is Open-source.
